@@ -10,3 +10,16 @@
 #interno {
     height: 1 cm;
 }
+
+h4 {
+    color: grey;
+    font-weight: 500;
+}
+
+h6 {
+    color: gray;
+    font-weight: 200;
+}
+figcaption {
+    font-size: 8pt;
+}
