@@ -1,14 +1,33 @@
 #logo {
     height: 1cm;
+    margin: 1.0cm;
+    margin-left: 3cm;
+
 }
 
 #esterno {
     height: 3cm;
     background-color: lightblue;
+
 }
 
-#interno {
-    height: 1 cm;
+#subsection1 {
+    line-height: 0;
+}
+
+#footer {
+    background-color: rgba(49, 58, 107, 1);
+    height: 2cm;
+}
+
+#fine {
+    color: white;
+    font-size: 10pt;
+    text-align: center;
+}
+
+h1 {
+    font-size: 25pt;
 }
 
 h4 {
@@ -20,6 +39,7 @@ h6 {
     color: gray;
     font-weight: 200;
 }
+
 figcaption {
     font-size: 8pt;
 }
